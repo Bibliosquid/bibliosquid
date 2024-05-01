@@ -1,6 +1,6 @@
 ### About the Technical Writing Repository 👋
 
-This repository contains a collection of my writing, primarily focused on documentation and end-user focused work. Thank you for reading! Please check my [linkedin profile](https://www.linkedin.com/in/shelley-carr-squid) to learn more about my qualifications. This page is made using Markdown.
+This repository contains a collection of my writing, primarily focused on documentation and end-user focused work. Thank you for reading! Please check my [Linkedin profile](https://www.linkedin.com/in/shelley-carr-squid) to learn more about my qualifications. This page is made using Markdown.
 <!--
 **Bibliosquid/bibliosquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
