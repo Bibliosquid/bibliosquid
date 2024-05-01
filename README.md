@@ -1,4 +1,4 @@
-### About the My Writing Repository 👋
+### About the Technical Writing Repository 👋
 
 This repository contains a collection of my writing, primarily focused on documentation and end-user focused work. Thank you for reading! Please check my [linkedin profile] (https:// to learn more about my qualifications. This page is made using Markdown.
 <!--
@@ -8,16 +8,18 @@ This repository contains a collection of my writing, primarily focused on docume
 
 My technical writing samples are categorized into the following documentation types, with new projects added over time:
 
-- SOPs
-- Online Help & Quick Reference Guides
+- Standard Operating Procedures (SOPs)
+- How-tos & Tutorials
+- Quick Reference Guides
 - Online Knowledge Base
-- Quick-Star Guides
 - Explainers
 - FAQ entry samples
-- Tutorials
+- Diagrams
 
 ## About me
 
-I'm a former academic Librarian with years of teaching experience, and plenty of time writing research guides, how-tos, documentation of processes and policies, and other related duties. I also have worked as a freelance graphic designer, and use my design skills and innate sense of balance and clarity to ensure all my work is easy to read, understand, and navigate. 
+I'm a former academic Librarian with years of teaching experience, and plenty of time writing research guides, how-tos, documentation of processes and policies, and other related duties. AS an academic librarian, my job has been teaching college students how to do research, use complex research databases, format documents, print, use a variety of software, and more.
+
+Prior to becoming a librarian, I have worked as an academic program manager and a freelance graphic designer, and use my project management skills and design expertise in current projects. Some of my samples represent versions of past projects that are internal documentation and therefore not available publically, while others reference projects I've conducted as a librarian. 
 
 
