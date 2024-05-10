@@ -1,4 +1,4 @@
-#**How to add individual appointment options in Microsoft Bookings**
+ # **How to add individual appointment options in Microsoft Bookings** #
 <div>
 1.	**Open Microsoft Bookings** and navigate to the **Services** section.
 2. 	**Click on "Add a Service"** to create a new appointment type. This can be anything from office hours to consultations or advising sessions.
@@ -8,15 +8,7 @@
 6.	**Use email notifications and reminders** to automate communication of reservation times and to reserve the Outlook calendar time of the assigned staff and the customer. 
 </div>
 
-
-
----
-title: 'Crafting the ultimate technical writer portfolio'
-description: You can start by addressing the absence of formal or credible standards and best practices in the technical writing field at the beginning of your article. This would set the stage for the readers to understand the context and the significance of a well-crafted portfolio in demonstrating one's capabilities. 
-date:   2024
-authors: [ shelleycarr ]
-categories: technical writer portfolio
----
+```
 
 
 
