@@ -1,6 +1,6 @@
  # **How to add individual appointment options in Microsoft Bookings** #
 <div>
-1.	**Open** Open Microsoft Bookings** and navigate to the **Services** section.
+1.	 **Open Microsoft Bookings** and navigate to the **Services** section.
  <div></div>
 2. **Click on "Add a Service"** to create a new appointment type. This can be anything from office hours to consultations or advising sessions.
   <div></div>
