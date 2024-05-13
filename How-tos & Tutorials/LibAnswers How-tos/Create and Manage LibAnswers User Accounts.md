@@ -28,9 +28,6 @@
 ### Manage User Accounts ###
 
 1. Go to **Admin > Accounts**.
-   
-   <img src="/../main/Assets/Images/Manage_Accounts.png" width="450" alt="Screenshot of the manage accounts options window, showing access to queues, groups, and departments.">
-   
 2. Under the **Manage Accounts** tab:
   - Click on a user's edit icon in the **Actions** column on the right side of the table to edit that user's account information, permissions, and defaults.
     - You can also manage user access to queues, groups, departments, and Ref. Analytics datasets in each queue, group, department, and dataset's settings.
@@ -59,5 +56,6 @@ You can delete an account to permanently remove it from the system. To retain st
 2. Click on the **Email Users** tab.
 3. If you need to send a bulk email to all LibAnswers users, copy and paste email addresses into your email application of choice. 
 
-
+ <img src="/../main/Assets/Images/Manage_Accounts.png" width="450" alt="Screenshot of the manage accounts options window, showing access to queues, groups, and departments.">
+   
 
