@@ -2,9 +2,10 @@
 
 | In this Article  | 
 | ------------- | 
-| [Add a New User Account](###-Add-a-New-User-Account)  |
-| [Manage User Accounts](###-Manage-User-Accounts)  |
-| [View a Single Email List of Accounts by Level](###-View-a-Single-Email-List-of-Accounts-by-Level)
+| [Add a New User Account](###-Add-a-New-User-Account-)  |
+| [Manage User Accounts](###-Manage-User-Accounts-)  |
+| [Delete an Account] (###-Delete-an-Account-) |
+| [View a Single Email List of Accounts by Level](###-View-a-Single-Email-List-of-Accounts-by-Level-)
 
 ### Add a New User Account ###
 
