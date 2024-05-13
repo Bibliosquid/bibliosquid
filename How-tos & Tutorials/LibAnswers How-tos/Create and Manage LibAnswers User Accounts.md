@@ -25,10 +25,31 @@
   
 ### Manage User Accounts ###
 
+1. Go to **Admin > Accounts**.
+2. Under the **Manage Accounts** tab:
+  - Click on a user's edit icon in the **Actions** column on the right side of the table to edit that user's account information, permissions, and defaults.
+    - You can also manage user access to queues, groups, departments, and Ref. Analytics datasets in each queue, group, department, and dataset's settings.
+    - For accounts that should no longer have access to LibAnswers but should have historical user data assigned to them still, set their account to **Inactive**.
+  - To remove a user, click on their trash can icon in the **Actions** column.
+    - You will be prompted to reassign that user's data to another user.
+    - If you do not want to reassign the user's data, but prevent that user from logging into LibAnswers, edit their account and change their permission level to **Inactive**.
+  - To reactivate an inactive user's account, click on the refresh icon in the **Actions** column for the user.
 
-### View a Single Email List of Accounts by Level
+### Delete an Account ###
 
+You can delete an account to permanently remove it from the system. To retain stats and not reassign the user’s data, but prevent that user from logging in, you can alternatively change their permission level to Inactive. To fully delete an account:
 
+1. Go to **Admin > Accounts**. 
+2. Click on the user's trash icon in the **Actions** column on the right side of the table.
+3. A list of content assigned to the soon-to-be-deleted user will display.
+  - You will need to select a user to reassign the soon-to-be-deleted user's assigned content to. Select that user's name form the **User account you wish to reassign** dropdown.
+4. Select **Yes, I'm sure** to delete the account fully. After deletion, the account cannot be recovered.
+
+### View a Single Email List of Accounts by Level ###
+
+1. Go to **Admin > Accounts**.
+2. Click on the **Email Users** tab.
+3. If you need to send a bulk email to all LibAnswers users, copy and paste email addresses into your email application of choice. 
 
 
 
