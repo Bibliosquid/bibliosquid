@@ -23,6 +23,7 @@
    - **Reader users** have read-only access to the public pages of Internal and Restricted Internal FAQ Groups. These users cannot access the admin side of LibAnswers. This user type is appropriate for users who may need to review internal content without editing privileges.
    - **Ref.Analytics Only** can only add, view, and analyze transactions in your Reference Analytics datasets. This is helpful if you want certain users (such as student assistants or volunteers) to record transactions, but not have access to other areas of LibAnswers.
 7. Use the **Profile Image** to select whether the user's LibApps profile image or a generic image should display as the user's avatar.
+
   
 ### Manage User Accounts ###
 
