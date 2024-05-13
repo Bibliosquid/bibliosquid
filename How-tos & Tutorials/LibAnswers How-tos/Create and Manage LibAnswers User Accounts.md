@@ -46,6 +46,8 @@ You can delete an account to permanently remove it from the system. To retain st
   - You will need to select a user to reassign the soon-to-be-deleted user's assigned content to. Select that user's name form the **User account you wish to reassign** dropdown.
 4. Select **Yes, I'm sure** to delete the account fully. After deletion, the account cannot be recovered.
 
+!["Screenshot of the Delete user window, showing a list of assigned user content. "](delete-user.png)
+
 ### View a Single Email List of Accounts by Level ###
 
 1. Go to **Admin > Accounts**.
