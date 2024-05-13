@@ -1,4 +1,4 @@
-# Sample Library FAQs #
+# Sample Library FAQ #
 
 ### How do I print from my laptop or my phone? ###
 
