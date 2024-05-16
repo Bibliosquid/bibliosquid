@@ -1,12 +1,14 @@
 ### About the Technical Writing Repository 👋
 
 This repository contains a collection of my writing, primarily focused on documentation and end-user focused work. Thank you for reading! Please check my [Linkedin profile](https://www.linkedin.com/in/shelley-carr-squid) to learn more about my qualifications. This page is made using Markdown with elements of CSS and HTML.
+
+I also have an information architecture repository, please check that out [here.](https://github.com/Bibliosquid/Information-Architecture)
 <!--
 **Bibliosquid/bibliosquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## Documentation Types:
 
-My technical writing samples are categorized into the following documentation types, with new projects added over time. I also have a section for Information Architecture Samples:
+My technical writing samples are categorized into the following documentation types, with new projects added over time.
 
 - Standard Operating Procedures (SOPs)
 - How-tos & Tutorials
@@ -15,7 +17,6 @@ My technical writing samples are categorized into the following documentation ty
 - Explainers
 - FAQ entry samples
 - Diagrams
-- Information Architecture
 
 ## About me
 
