@@ -6,7 +6,7 @@ To best understand me, understand my process for developing a fruitful IA design
   - UX Research
   - User Profile development
 
-## 2. Review and Updated Content ##
+## 2. Review and Update Content ##
   - Content Inventory
   - Content Audit
 
