@@ -1,6 +1,6 @@
 ### About the Bibliosquid Repository 👋
 
-This hub includes several repositories containing a collection of my technical writing, information architectural work, and other samples of my work. Thank you for reading! Please check my [Linkedin profile](https://www.linkedin.com/in/shelley-carr-squid) to learn more about my qualifications. This page is made using Markdown with elements of CSS and HTML.
+Welcome to my Portfolio! This hub includes several repositories containing a collection of my technical writing, information architectural work, and other samples of my work. Thank you for reading! Please check my [Linkedin profile](https://www.linkedin.com/in/shelley-carr-squid) to learn more about my qualifications. This page is made using Markdown with elements of CSS and HTML.
 
 The Technical Writing Repository is primarily focused on technical documentation and end-user focused work. 
 The Information Architecture Repository is primarily focused on Information Architecture elements, ontologies, and taxonomies.
